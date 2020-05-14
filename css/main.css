@@ -1,4 +1,8 @@
-h1 {color: red;}
+img { 
+  witgh; 125px;
+}  
+
+h1 {color: red;} 
 #block {background: blue; color: #fff; width:100px; }
 .new span {color: red;}
 h2{background: green; color: #fff;}
